@@ -1,0 +1,18 @@
+{
+  "name": "lifegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha turn03-test.js",
+    "start": "node ."
+  },
+  "author": "neopan@126.com",
+  "license": "ISC",
+  "dependencies": {
+    "sleep": "^5.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
